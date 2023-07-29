@@ -343,7 +343,7 @@
     "id.verification.submission.alert.error.unsupported": "Một hoặc nhiều tập tin bạn đã tải lên có định dạng không được hỗ trợ. Vui lòng chọn từ những điều sau đây:",
     "id.verification.review.error": "Trang hỗ trợ {siteName}",
     "id.verification.submitted.title": "Việc xác nhận danh tính đang được tiến hành",
-    "id.verification.submitted.text": "Chúng tôi đã nhận được thông tin của bạn và đang xác minh danh tính của bạn. Bạn sẽ được thông báo khi quá trình xác minh hoàn thành (thường trong vòng 5 ngày). trong thời gian chờ đợi, bạn vẫn có thể truy cập tất cả nội dung khóa học có sẵn.",
+    "id.verification.submitted.text": "Chúng tôi đã nhận được thông tin của bạn và đang xác minh danh tính của bạn. Bạn sẽ được thông báo khi quá trình xác minh hoàn thành (thường trong vòng 5 ngày). Trong thời gian chờ đợi, bạn vẫn có thể truy cập tất cả nội dung khóa học có sẵn.",
     "id.verification.return.dashboard": "Quay lại Bảng thông tin",
     "id.verification.return.course": "Quay trở lại Khoá học",
     "id.verification.return.generic": "Trở lại",
