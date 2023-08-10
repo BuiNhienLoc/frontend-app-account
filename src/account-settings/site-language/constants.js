@@ -1,12 +1,12 @@
 const siteLanguageList = [
   {
-    code: 'vi',
-    name: 'Tiếng Việt',
+    code: 'en',
+    name: 'English',
     released: true,
   },
   {
-    code: 'en',
-    name: 'English',
+    code: 'vi',
+    name: 'Tiếng Việt',
     released: true,
   },
   {
