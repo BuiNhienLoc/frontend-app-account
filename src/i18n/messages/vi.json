@@ -1,4 +1,9 @@
 {
+    "header.links.courses": "Khóa học",
+    "header.user.menu.dashboard": "Bảng thông tin",
+    "header.user.menu.profile": "Hồ sơ",
+    "header.user.menu.account.settings": "Tài khoản",
+    "header.user.menu.logout": "Đăng xuất",
     "account.settings.message.duplicate.tpa.provider": "Tài khoản {provider} bạn chọn đã được liên kết với một tài khoản {siteName} khác.",
     "account.settings.message.managed.settings": "Cài đặt hồ sơ của bạn được quản lý bởi {managerTitle}. Liên hệ quản trị viên hoặc {support} để được giúp đỡ.",
     "account.settings.message.managed.settings.support": "Hỗ trợ",
